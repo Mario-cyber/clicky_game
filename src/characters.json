@@ -1,0 +1,9 @@
+[{
+        "id": 1,
+        "name": "Batman",
+        "image": "./characterPictures/batman.png",
+        "occupation": "Fry Cook",
+        "location": "A Pineapple Under the Sea"
+    }
+
+]
